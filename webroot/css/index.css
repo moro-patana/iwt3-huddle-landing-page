@@ -80,7 +80,8 @@ h1 {
 @media (min-width: 1114px) {
   .masthead {
     max-width: 1114px;
-    margin: 0 auto; } }
+    margin: 0 auto;
+    padding: 0; } }
 
 .community {
   padding: 10px;
