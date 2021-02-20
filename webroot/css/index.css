@@ -145,3 +145,8 @@ h1 {
 .contacts__form {
   display: flex;
   flex-direction: column; }
+
+.contacts__form__input {
+  padding: 20px;
+  border: none;
+  border-radius: 15px; }
