@@ -196,3 +196,8 @@ h1 {
 
 .contacts__media__address__list__item {
   padding: 10px; }
+
+h6 {
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 30px; }
