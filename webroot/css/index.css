@@ -181,7 +181,8 @@ h1 {
 .contacts__media__list {
   display: flex;
   flex-direction: row;
-  padding-bottom: 30px; }
+  padding-bottom: 30px;
+  align-items: center; }
 
 .contacts__media__list__item {
   margin: 0;
