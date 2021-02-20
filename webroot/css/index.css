@@ -170,3 +170,10 @@ h1 {
 .contacts__media__list__icon,
 .media__address__icon {
   width: 50px; }
+
+.contacts__media__info {
+  margin: 0;
+  font-size: 19px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 34px; }
