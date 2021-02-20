@@ -78,7 +78,8 @@ h1 {
   margin-top: 50px; }
 
 .community {
-  padding: 10px; }
+  padding: 10px;
+  text-align: center; }
 
 .community__info__icon {
   width: 50px; }
