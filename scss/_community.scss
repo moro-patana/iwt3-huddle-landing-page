@@ -21,3 +21,10 @@
     font-size: 50px;
     font-weight: 900;
 }
+@media (min-width: 1114px) {
+    .community__info__container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
