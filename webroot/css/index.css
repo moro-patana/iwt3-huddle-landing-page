@@ -66,3 +66,9 @@ h1 {
   color: white;
   font-size: 18px;
   margin-top: 50px; }
+
+.community {
+  padding: 10px; }
+
+.community__info__icon {
+  width: 50px; }
