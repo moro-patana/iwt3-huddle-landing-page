@@ -28,3 +28,9 @@
     font-size: 18px;
     margin-top: 50px;
 }
+@media (min-width: 1114px) {
+    .masthead {
+        max-width: 1114px;
+        margin: 0 auto;
+    }
+}
