@@ -82,12 +82,23 @@ h1 {
   text-align: center; }
 
 .community__info__icon {
-  width: 50px; }
+  width: 90px; }
 
 .community__info {
   text-align: start;
-  padding-left: 100px;
-  padding-right: 100px; }
+  padding: 50px; }
+
+.community__subtitle {
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 34px; }
+
+.community__formed,
+.community__message__sent {
+  margin: 0;
+  font-size: 50px;
+  font-weight: 900; }
 
 .services {
   padding-left: 10px;
