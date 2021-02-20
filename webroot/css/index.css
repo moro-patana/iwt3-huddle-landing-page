@@ -13,7 +13,11 @@ li {
   list-style: none; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none;
+  cursor: pointer; }
+
+button {
+  cursor: pointer; }
 
 img {
   width: 100%; }
