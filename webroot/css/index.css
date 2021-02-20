@@ -146,6 +146,12 @@ h1 {
   font-size: 17px;
   font-weight: 500; }
 
+@media (min-width: 1114px) {
+  .services__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 50px; } }
+
 .building__community {
   text-align: center; }
 
