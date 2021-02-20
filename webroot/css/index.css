@@ -84,6 +84,11 @@ h1 {
 .community__info__icon {
   width: 50px; }
 
+.community__info {
+  text-align: start;
+  padding-left: 100px;
+  padding-right: 100px; }
+
 .services {
   padding-left: 10px;
   padding-right: 10px;
