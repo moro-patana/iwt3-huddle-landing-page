@@ -10,10 +10,19 @@
 }
 .services__title {
     margin: 0;
-    padding: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-size: 32px;
     font-weight: bold;
 }
 .services__list {
     text-align: center;
+}
+.services__description {
+    margin: 0;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 500;
 }
