@@ -1,28 +1,66 @@
 html {
-    font-family: "Poppins";
-    color: darkslategray;
+    font-family: "Open Sans";
 }
 body {
     margin: 0;
+    background-color: white;
 }
-.masthead,
-footer {
-    padding: 50px;
+img {
+    width: 100%;
+}
+h1 {
+    margin: 0;
 }
 li {
     list-style: none;
 }
 a {
     text-decoration: none;
-    cursor: pointer;
 }
+a,
 button {
     cursor: pointer;
 }
-img {
-    width: 100%;
+.community__message__sent,
+.community__formed {
+    font-family: "Poppins";
 }
-footer {
-    background-color: darkslategray;
-    color: white;
+h2,
+.community__message__sent,
+.community__formed {
+    font-size: 32px;
+}
+.community__message__sent,
+.community__formed {
+    font-weight: 700;
+}
+.community__subtitle,
+h3,
+h4 {
+    font-size: 28px;
+}
+h4 {
+    padding-top: 30px;
+    padding-bottom: 30px; 
+}
+h5 {
+    font-size: 32px;
+    text-transform: uppercase;
+}
+p {
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+@media (min-width: 768px) {
+    h2 {
+        font-size: 48px;
+    }
+    h3 {
+        font-size: 38px;
+    }
+    h4 {
+        font-size: 40px;
+    }
 }

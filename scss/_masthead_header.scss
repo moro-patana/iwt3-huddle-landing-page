@@ -1,45 +1,25 @@
-.masthead__header {
+.masthead__header__content {
+    padding: 50px;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-.masthead__title {
-    color: darkslategrey;
-    font-size: 38px;
-    font-weight: bold;
-    margin: 0;
-    padding: 10px;
-}
-.masthead__introduction {
-    margin: 0;
-    padding: 10px;
-    font-size: 18px;
-    color: darkslategrey;
 }
 .masthead__button {
-    padding-top: 25px;
+    padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
     border: none;
     border-radius: 50px;
     background-color: hotpink;
     color: white;
     font-size: 18px;
-    margin-top: 50px;
+    box-shadow: 5px 5px 5px gainsboro;
 }
-@media (min-width: 1114px) {
-    .masthead {
-        max-width: 1114px;
-        margin: 0 auto;
-        padding: 0;
-    }
-    .masthead__title {
-        font-size: 50px;
+@media (min-width: 768px) {
+    .masthead__header__content {
+        padding: 100px;
     }
     .masthead__introduction {
-        font-size: 22px;
-        padding-left: 200px;
-        padding-right: 200px;
+        padding-left: 300px;
+        padding-right: 300px;
     }
 }
